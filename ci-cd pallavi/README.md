@@ -1,6 +1,6 @@
-# Orbital V4.0 - Elite CI/CD Orchestration Command Center
+# Containerized CI/CD Pipeline System
 
-Welcome to the **Orbital V4.0 Command Center**. This project is a full-stack, cyber-aesthetic dashboard designed to orchestrate Continuous Integration/Continuous Deployment (CI/CD) pipelines, monitor AWS/Docker infrastructure, and act as a central hub for DevOps telemetry.
+Welcome to the **Containerized CI/CD Pipeline System**. This project is a demonstrates the implementation of a CI/CD pipeline using GitHub, Jenkins, Docker, and MongoDB. The system automates code integration, testing, Docker image creation, and deployment.
 
 This document provides step-by-step instructions to set up and run the project on any new machine.
 
