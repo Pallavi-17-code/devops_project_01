@@ -5,7 +5,6 @@ Welcome to the **Containerized CI/CD Pipeline System**. This project is a demons
 This document provides step-by-step instructions to set up and run the project on any new machine.
 
 ---
-
 ## 🛠️ Prerequisites
 
 Before you start, ensure the following software is installed on your machine:
@@ -49,7 +48,7 @@ The backend is an Express Node.js application that handles data telemetry, Docke
      DB_USER=postgres
      DB_PASSWORD=YOUR_DB_PASSWORD
      DB_NAME=cicd_dashboard
-     JWT_SECRET=super_secret_orbital_key
+     JWT_SECRET=super_secret_cicd_key
      JWT_EXPIRES_IN=30d
      ```
 4. Run the Seed Script (This creates the database tables and the Admin account):
@@ -60,7 +59,7 @@ The backend is an Express Node.js application that handles data telemetry, Docke
    ```bash
    npm run dev
    ```
-   *You should see the "Orbital V4.0 Command Core Online" banner in your terminal if successful.*
+   *You should see the "CI/CD Command Centre System Online" banner in your terminal if successful.*
 
 ---
 

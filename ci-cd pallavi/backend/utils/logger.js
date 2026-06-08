@@ -18,7 +18,7 @@ const log = {
   },
   server: (port) => {
     console.log('\n' + chalk.magenta('═'.repeat(60)));
-    console.log(chalk.magenta('║ ') + chalk.magentaBright.bold('ORBITAL V4.0 ELITE COMMAND CORE ONLINE'));
+    console.log(chalk.magenta('║ ') + chalk.magentaBright.bold('CI/CD Command Center System Online'));
     console.log(chalk.magenta('═'.repeat(60)));
     console.log(chalk.cyan('➜ ') + chalk.white(`Network Sync: `) + chalk.green.underline(`http://localhost:${port}`));
     console.log(chalk.cyan('➜ ') + chalk.white(`Core Status:  `) + chalk.greenBright('Operational / Nominal'));

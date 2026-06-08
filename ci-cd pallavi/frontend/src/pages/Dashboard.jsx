@@ -227,8 +227,8 @@ const Dashboard = () => {
             <LayoutDashboard className="text-white w-6 h-6" />
           </div>
           <div>
-            <h1 className="text-lg font-black text-white tracking-tighter leading-none">ORBITAL</h1>
-            <p className="text-[10px] text-blue-500 font-black tracking-[0.2em] mt-1">V4.0 ELITE</p>
+            <h1 className="text-lg font-black text-white tracking-tighter leading-none">CONTAINERIZED CI/CD</h1>
+            <p className="text-[10px] text-blue-500 font-black tracking-[0.2em] mt-1">Pipeline System</p>
           </div>
         </div>
 
